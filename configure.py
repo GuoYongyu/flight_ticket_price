@@ -63,7 +63,7 @@ TABLE_NAME = "flight_price_records"
 
 # email settings
 EMAIL_SERVER_ADDR = "smtp.***.com"
-EMAIL_SERVER_PORT = [0, 465, 994]
+EMAIL_SERVER_PORT = [0, ]
 EMAIL_SENDER_USERNAME = "******@***.com"
 EMAIL_SENDER_PASSWORD = "******"
 EMAIL_RECEIVERS_USERNAME = ["******@***.com"]
